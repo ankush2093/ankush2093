@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush2093&label=Profile%20views&color=0e75b6&style=flat" alt="ankush2093" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankush2093" alt="ankush2093" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/56/77/415677f683c2107c8d1b0f7f95037789.gif">
 
 - 🌱 I’m currently learning **Spring, MERN Stack**
 
