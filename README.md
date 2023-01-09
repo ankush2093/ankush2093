@@ -1,6 +1,6 @@
 
 
-
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4D03AQHV7Bb5AcL9kQ/profile-displayphoto-shrink_800_800/0/1670407845557?e=1678924800&v=beta&t=-T6TRmtrPPpM0lTDmt6v-FbpPTO68b1z8IbKx594AaQ" alt="android" width="150" height="150" /> </a>
 
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="ankush-kumar-singh-bab056204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankush-kumar-singh-bab056204/" height="30" width="40" /></a>
+<a href="ankush-kumar-singh-bab056204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankush-kumar-singh-bab056204/" boder-radius="50px" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
