@@ -1,6 +1,6 @@
 
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4D03AQHV7Bb5AcL9kQ/profile-displayphoto-shrink_800_800/0/1670407845557?e=1678924800&v=beta&t=-T6TRmtrPPpM0lTDmt6v-FbpPTO68b1z8IbKx594AaQ" alt="android" width="200" height="200"  border-radius: 50% /> </a>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4D03AQGbIaeibN1crA/profile-displayphoto-shrink_400_400/0/1676793666324?e=1682553600&v=beta&t=SA2R0csao9IPgD31qYDsvagW8yt61-BsY9JrI1Uthgw" alt="android" width="200" height="200"  border-radius: 50% /> </a>
 
 <h1 align="center">Hello &#128521 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
