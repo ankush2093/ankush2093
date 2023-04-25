@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="android" width="1080" height="200"  border-radius: 50% /> </a>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="android" width="1080" height="250"  border-radius: 50% /> </a>
 
 <h1 align="center">Hello &#128521 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
@@ -7,11 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush2093&label=Profile%20views&color=0e75b6&style=flat" alt="ankush2093" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankush2093" alt="ankush2093" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a1/77/3f/a1773fd16287d50a6d0140ecd91a7b98.gif">
+<!-- Inner Gif -->
+<img align="right" alt="Coding"  width="400" height="270" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
 - 🌱 I’m currently learning **Spring, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ankush2093.github.io/My-Profile-Old/](https://ankush2093.github.io/My-Profile-Old/)
+- 👨‍💻 My Portfolio [https://ankush2093.github.io/My-Profile-Old/](https://ankush2093.github.io/My-Profile-Old/)
 
 - 📫 How to reach me **singhankush835@gmail.com**
 
