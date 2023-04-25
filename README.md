@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4D03AQGbIaeibN1crA/profile-displayphoto-shrink_400_400/0/1676793666324?e=1682553600&v=beta&t=SA2R0csao9IPgD31qYDsvagW8yt61-BsY9JrI1Uthgw" alt="android" width="200" height="200"  border-radius: 50% /> </a>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" alt="android" width="1080" height="200"  border-radius: 50% /> </a>
 
 <h1 align="center">Hello &#128521 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
