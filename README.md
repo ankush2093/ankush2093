@@ -12,11 +12,10 @@
 
 - 🌱 I’m currently learning **Spring, MERN Stack**
 
-- 👨‍💻 My Portfolio [https://ankush2093.github.io/My-Profile-Old/](https://ankush2093.github.io/My-Profile-Old/)
+- 👨‍💻 My Portfolio https://softwaredeveloper-sand.vercel.app/
 
 - 📫 How to reach me **singhankush835@gmail.com**
 
-- 📄 Know about my experiences [https://ankush2093.github.io/My-Profile-Old/](https://ankush2093.github.io/My-Profile-Old/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
