@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4D12AQE43HGjaVcGlw/article-cover_image-shrink_600_2000/0/1573155290769?e=2147483647&v=beta&t=FDgs89qar1q1JIxz2cs1MLMbBzm3eNBZr3E0Yr6c2mY" alt="banner" width="100%" height="220"/>
+  <img src="https://assets-v2.lottiefiles.com/a/97fc9faa-117f-11ee-a3b3-5fb6ab9865dc/vR6mwrGRsr.gif" alt="banner" width="100%" height="220"/>
 </p>
 
 <h1 align="center">Hello 👋, I'm Ankush Kumar</h1>
