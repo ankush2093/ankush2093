@@ -14,7 +14,7 @@ I build clean, scalable, and user-friendly web applications using modern technol
 <img align="right" alt="Coding" width="380" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg">
 
  # 💫 About Me:
-As a software developer with over 1+ year of hands-on experience, I focus on building modern, scalable, and high-performance web and mobile applications.<br><br>I work with modern and production-ready technologies such as React, Next.js, Angular, Express, NestJS, and React Native to deliver clean, maintainable, and user-focused solutions.<br><br>In addition to development, I implement AI-powered workflow automation using n8n to improve efficiency, reduce manual effort, and streamline application processes.
+As a software developer with over 1.5+ year of hands-on experience, I focus on building modern, scalable, and high-performance web and mobile applications.<br><br>I work with modern and production-ready technologies such as React, Next.js, Angular, Express, NestJS, and React Native to deliver clean, maintainable, and user-focused solutions.<br><br>In addition to development, I implement AI-powered workflow automation using n8n to improve efficiency, reduce manual effort, and streamline application processes.
 
 ---
 
